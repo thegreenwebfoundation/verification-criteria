@@ -2,14 +2,7 @@
 
 *This page is for **data center operators** and **web hosting providers**, who want to [get verified as a verified green hosting provider](https://www.thegreenwebfoundation.org/tools/green-web-dataset/get-verified/). On this page you will find information about the kind of disclosures required in order to get verified, as well as additional information about the context of those disclosures and examples to use as a guide.*
 
-The founding mission of the Green Web Foundation is for a fossil-free internet by 2030\. To track progress towards this we ask hosting companies and data center operators to complete a voluntary verification process where we ask for disclosures showing their organisation’s *commitment* and *progress* towards **phasing out fossil fuels from their digital supply chain.** 
-
-> [!NOTE]
-> **Definition:** Digital supply chain
-> 
-> When we talk about a digital supply chain we are **referring specifically to the data center/s** which are used to deliver a digital service to a customer or end user.
-> 
-> For the purpose of verification in our dataset, we only look at the use of fossil-free energy in the data centers used. Other factors like PUE, WUE, heat transfer, office/organisational sustainability measures are not considered.
+The founding mission of the Green Web Foundation is for a fossil-free internet by 2030\. To track progress towards this we ask hosting companies and data center operators to complete a voluntary verification process where we ask for disclosures showing their organisation’s *commitment* and *progress* towards **phasing out fossil fuels from their hosting infrastructure.** 
 
 ## Quicklinks
 
@@ -57,12 +50,12 @@ For the purposes of verification, we require that hosting providers and data cen
 
    5. [**Passive procurement**](#passive-procurement-of-fossil-free-energy) \- you operate in a place where certificates for fossil-free generation are by default bundled with the power you buy, and not sold on. 
 
-We also accept **third-party limited assurance report** covering Scope 1 and Scope 2 GHG (greenhouse gas) emissions for that organisation. This means that *an independent auditor has obtained sufficient and appropriate disclosures that the organisation has used one/more of the mechanisms listed above to support claims of using 100% fossil-free energy from their digital supply chain.*
+We also accept **third-party limited assurance report** covering Scope 1 and Scope 2 GHG (greenhouse gas) emissions for that organisation. This means that *an independent auditor has obtained sufficient and appropriate disclosures that the organisation has used one/more of the mechanisms listed above to support claims of using 100% fossil-free energy from their hosting infrastructure.*
 
 > [!IMPORTANT]
 > **Important note regarding carbon offsets**
 > 
-> Carbon offsets cannot be used as a valid basis for verification. Our focus is on phasing fossil fuels out the digital supply chain, and carbon offsets do not achieve this.
+> Carbon offsets cannot be used as a valid basis for verification. Our focus is on phasing out fossil fuels being used by hosting infrastructure, and carbon offsets do not achieve this.
 > 
 > For providers currently using offsets for verification, we provide guidance on alternatives in this FAQ: [*Are carbon offsets accepted as a form of disclosures for verification?*](#are-carbon-offsets-accepted-as-a-form-of-disclosures-for-verification?)
 
@@ -219,7 +212,7 @@ For a detailed explanation of what constitutes a Credible Claim, please refer to
 
 ### Are carbon offsets accepted as a form of disclosures for verification? {#are-carbon-offsets-accepted-as-a-form-of-disclosures-for-verification?}
 
-No, our focus is on phasing fossil fuels out the digital supply chain.
+No, our focus is on phasing out fossil fuels being used by hosting infrastructure.
 
 Instead of offsets, providers can purchase [unbundled Energy Attribution Certificates (EACs) or Renewable Energy Certificates (RECs)](#unbundled-certificates) that match the time and region for which they are making their claim.
 
@@ -235,13 +228,13 @@ When a provider with no fossil free regions is reverified (after one year), we m
 
 ### Can ISO 14001 certification be used as disclosures for verification?
 
-No, our focus is on phasing fossil fuels out the digital supply chain.
+No, our focus is on phasing out fossil fuels being used by hosting infrastructure.
 
 An ISO 14001 certification alone is not sufficient disclosures for verification. We require providers to share disclosures aligned with the forms listed in this document.
 
 ### My organisation is a member of the Climate Neutral Data Center Pact (CNDCP). Can this be used as disclosures for verification?
 
-No, our focus is on phasing fossil fuels out the digital supply chain.
+No, our focus is on phasing out fossil fuels being used by hosting infrastructure.
 
 Membership of the CNDCP alone is not sufficient disclosures for verification. We require providers to share disclosures aligned with the forms listed in this document.
 
@@ -260,6 +253,6 @@ We have arrived at this list of energy sources after reviewing existing accepted
 
 ### Why call it fossil free?
 
-We refer to it as fossil free, because for us, it names the problem to solve \- to divest from fossil fuels, and **phasing out fossil fuels from their digital supply chain.**
+We refer to it as fossil free, because for us, it names the problem to solve \- to divest from fossil fuels, and **phasing out fossil fuels from hosting infrastructure.**
 
 This is broadly in-line with our recent post, [*No Fossil Fuels in Our Tech Stacks*](https://www.thegreenwebfoundation.org/news/no-fossil-fuels-in-our-tech-stacks/), and previously, we’ve had a definition of green energy that was to some extent determined by a) what you could reasonably expect hosting providers to be able to meet and b) what various conflicting national standards could agree on.
