@@ -32,7 +32,7 @@ The disclosure requirements for our verification have been chosen to align with 
 > 
 > We have arrived at this list of energy sources after reviewing existing accepted clean energy standards in particular the [24-7 Carbon-Free Coalition (24-7 CFC) Technical Standard](https://www2.theclimategroup.org/247-technical-criteria-May-2025).
 
-## What disclosures are required for verification? {#what-disclosures-are-required-for-verification?}
+## What disclosures are required for verification?
 
 For the purposes of verification, we require that hosting providers and data center operators share each year:
 
@@ -76,7 +76,7 @@ We ask for disclosures to be shared for either the current calendar year to date
 > 
 > Please note that while we continue to accept annually matched disclosures at this time, we expect this to be phased out by the end of 2028 with a view to *only* accepting hourly matched disclosures. Should this occur, we will notify all impacted providers in our dataset well in advance of the changes taking place.
 
-### Transparency of disclosures {#transparency-of-disclosures}
+### Transparency of disclosures 
 
 We require all providers seeking verification to share a public statement regarding their commitment to achieving **100% hourly fossil-free energy use by 2030**, for every region in which they operate. 
 
@@ -94,7 +94,7 @@ Below are brief descriptions of each basis for verification. These are based on 
 
 **All disclosures shared should show that claims are exclusive to the organisation making them, are timely, and are deliverable. For more details, read the FAQ [*What is a credible claim for the purposes of verification?*](#what-is-a-credible-claim-for-the-purposes-of-verification?)**
 
-#### **Self generation of fossil-free energy** {#self-generation-of-fossil-free-energy}
+#### **Self generation of fossil-free energy**
 
 Your organisation directly owns fossil-free energy projects (on-site or off-site) from which they directly consume energy. 
 
@@ -116,7 +116,7 @@ To make a verification claim based on direct procurement, providers must share:
 
 * A PPA contract showing exclusive ownership of the energy generated under the agreement. Refer to [24-7 Carbon-Free Coalition (24-7 CFC) Technical Standard](https://www2.theclimategroup.org/247-technical-criteria-May-2025) Appendix A \- Section 3 for more details.
 
-#### **Green tariffs** {#green-tariffs}
+#### **Green tariffs**
 
 A conventional energy supply agreement between an organisation and an energy supplier. These can be either project specific (i.e. the energy supplier delivers energy from one/more specific projects they operate), or retail. 
 
@@ -133,7 +133,7 @@ To make a verification claim based on green tariffs, a provider must share one o
 
 * Disclosures from the energy supplier showing the fuel-mix of the energy delivered.
 
-#### **Unbundled certificates** {#unbundled-certificates}
+#### **Unbundled certificates**
 
 Energy Attribute Certificates (EACs) or Renewable Energy Certificates (RECs) which are purchased by an organisation separate to the energy that organisation purchases. 
 
@@ -144,7 +144,7 @@ To make a verification claim based on unbundled certificates, a provider must sh
 
 See Appendix D in the [24-7 Carbon-Free Coalition (24-7 CFC) Technical Standard](https://www2.theclimategroup.org/247-technical-criteria-May-2025) for accepted EACs by country.
 
-#### **Passive Procurement of fossil-free energy** {#passive-procurement-of-fossil-free-energy}
+#### **Passive Procurement of fossil-free energy**
 
 The fossil-free energy that is supplied to an organisation via an energy supplier that by default bundles EACs in with their power. This means the supply has no special ‘green tariff’ \- all the power they sell has the same treatment, where the energy supplier retires an equivalent amount of EACs for the energy that they have delivered to the organisation, instead of selling them on as ‘unbundled certificates’ to be used as the basis for other fossil-free claims.
 
@@ -153,7 +153,7 @@ To make a verification claim based on passive procurement, a provider must share
 
 * Documented disclosures from their energy supplier showing their organisation’s energy consumption and the retirement of EACs equivalent to that amount.
 
-#### **Third-party limited assurance** {#third-party-limited-assurance}
+#### **Third-party limited assurance**
 
 Providers who are not able to share disclosures in the forms listed above may instead share a third-party limited assurance report covering Scope 1 and Scope 2 GHG emissions for that organisation. 
 
@@ -204,13 +204,13 @@ In the event they cannot obtain these disclosures from the provider they use/res
 
 ## FAQs
 
-### What is a credible claim for the purposes of verification? {#what-is-a-credible-claim-for-the-purposes-of-verification?}
+### What is a credible claim for the purposes of verification?
 
 Any claims made must be credible, in that they are unique and exclusive to the organisation making those claims. They must also be timely and deliverable \- (e.g. a renewable energy certificate from 2016 cannot be used to make claims for the 2025 calendar year; nor can a renewable energy certificate from Norway be used to make a claim for operations in the region of Singapore).
 
 For a detailed explanation of what constitutes a Credible Claim, please refer to the [Climate Group’s 24-7 CFC Technical Criteria Appendix A](https://www2.theclimategroup.org/247-technical-criteria-May-2025).
 
-### Are carbon offsets accepted as a form of disclosures for verification? {#are-carbon-offsets-accepted-as-a-form-of-disclosures-for-verification?}
+### Are carbon offsets accepted as a form of disclosures for verification?
 
 No, our focus is on phasing out fossil fuels being used by hosting infrastructure.
 
