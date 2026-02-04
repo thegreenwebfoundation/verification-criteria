@@ -107,7 +107,7 @@ To make a verification claim based on self generation, providers must share:
 
 If available, providers can also share any relevant information about CO2e emissions associated with the generation.
 
-#### **Direct procurement of fossil-free energy** {#direct-procurement-of-fossil-free-energy}
+#### **Direct procurement of fossil-free energy**
 
 Procurement from, and contracting with third-party fossil-free energy sources themselves. This  includes physical and financial/virtual power purchase agreements (PPAs). 
 
@@ -171,7 +171,7 @@ To make a verification claim based on limited assurance, the limited assurance m
 
 Providers must also share the related sustainability report and/or other documents for which that limited assurance has been provided.
 
-## We use/resell a provider that is already verified by the Green Web Foundation. Can my organisation get verified as well? {#we-use/resell-a-provider-that-is-already-verified-by-the-green-web-foundation.-can-my-organisation-get-verified-as-well?}
+## We use/resell a provider that is already verified by the Green Web Foundation. Can my organisation get verified as well?
 
 Yes\! To do so, you must:
 
@@ -183,7 +183,7 @@ Yes\! To do so, you must:
 
 Hosting providers who want to be verified based on their use of another verified provider (for example resellers, or providers who use colocation) **will need to agree to the public disclosure** of their relationship with other verified providers both in our Dataset and associated tools.
 
-## The provider I use is not verified by the Green Web Foundation, but they use fossil-free energy. How can my organisation get verified? {#the-provider-i-use-is-not-verified-by-the-green-web-foundation,-but-they-use-fossil-free-energy.-how-can-my-organisation-get-verified?}
+## The provider I use is not verified by the Green Web Foundation, but they use fossil-free energy. How can my organisation get verified?
 
 The best thing to do in this situation is to encourage the provider you use/resell to get verified with us first. In this way, the onus is on them to share with us the relevant information for verification. After they are verified, you can then be verified as a user/reseller of their services (see [*We use/resell a provider that is already verified by the Green Web Foundation. Can my organisation get verified as well?*](#we-use/resell-a-provider-that-is-already-verified-by-the-green-web-foundation.-can-my-organisation-get-verified-as-well?))
 
